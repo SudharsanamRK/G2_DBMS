@@ -1,7 +1,6 @@
 # EXP NO 1: DATA DEFINITION LANGUGE COMMANDS IN RDBMS
-## DATE:
-## AIM:
-To create a student database and execute DDL queries using SQL.
+## DATE: 04/08/2023
+## AIM: To create a student database and execute DDL queries using SQL.
 
 ## DDL (Data Definition Language)
 <div align="justify">
@@ -65,4 +64,4 @@ alter table student rename to mystudent;
 ![dbms output ex-1 img5](https://github.com/SudharsanamRK/G2_DBMS/assets/115523484/ac28dd58-3a44-4ed1-a8a2-102a7bce01a0)
 
 ### RESULT:
-Thus, To create a student database and execute DDL queries using SQL is executed successfully.
+Thus to create a student database and execute DDL queries using SQL is executed successfully.
